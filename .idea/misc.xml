@@ -6,8 +6,16 @@
         <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/drawable/button_background.xml" value="0.2222222222222222" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/drawable/edittext_background.xml" value="0.2222222222222222" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/drawable/login_background.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/layout/activity_home.xml" value="0.176" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/layout/activity_student_info.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/layout/activity_update.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/layout/student_info.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/layout/student_item.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/menu/item_menu.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ApiDemo/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.22592592592592592" />
       </map>
     </option>
   </component>
